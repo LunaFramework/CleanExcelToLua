@@ -11,3 +11,6 @@ install xlrd: pip install xlrd
 + human friendly text replacement, and auto merge same field into array
 + high performance and easy to use
 - TODO:check data safe,(data dependency/data range)
+
+# example
+more use case you can see example
